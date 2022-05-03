@@ -1,0 +1,33 @@
+hr{
+	width: 50%;
+}
+h1{
+    color:black;
+    text-align: center;
+}
+table {
+    width: 100%;
+}
+table, td, th {
+    border: 1px;
+    border-style: solid;
+    border-color: black;
+    border-collapse: collapse;
+    background-color: rgb(255, 255, 255);
+}
+td, th{
+    padding: 20px;
+}
+th {
+    text-align: left;
+}
+td.type1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-image: ;
+    background-color: rgb(217, 235, 255);
+}
